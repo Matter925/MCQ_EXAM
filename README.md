@@ -1,8 +1,8 @@
 # MCQExam
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
-*MCQ-EXAM The Admin Can Add The Exam With Mcq And The Correct Answer.
-*The student Can Register Or Login And Do The Exam And Get The Result Of It.
+- MCQ-EXAM The Admin Can Add The Exam With Mcq And The Correct Answer.
+- The student Can Register Or Login And Do The Exam And Get The Result Of It.
 ![Screenshot 2024-05-06 133849](https://github.com/Matter925/MCQ_EXAM/assets/84684863/c2c14c61-72a3-44c9-a009-ee22f98ba00b)
 ![Screenshot 2024-05-06 133904](https://github.com/Matter925/MCQ_EXAM/assets/84684863/f201edef-124b-4617-9e50-0f6f29d48a5e)
 ![Screenshot 2024-05-06 133923](https://github.com/Matter925/MCQ_EXAM/assets/84684863/9e394efc-2aa6-4b8c-a0f6-3f3fd5f02351)
