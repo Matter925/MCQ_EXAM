@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('../../assets/images/original-168de70e1a8ea073e0174aa438862b44.jpg');
+    background-size: cover; /* This will make the image cover the entire div */
+    /* Add more styles as needed */
+    width: 1500px; /* Example width */
+    height: 750px; /* Example height */
+}

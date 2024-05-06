@@ -1,5 +1,12 @@
+.students{
+    margin-top: 60px;
+}
 :host ::ng-deep .students table thead th {
-    background-color: #7a36f4;
+    background-color: #0b4a5a;
+    color: #FFF;
+    font-size:22px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 :host{
     ::ng-deep{ 
@@ -13,7 +20,7 @@
                 th {
                     color: #FFF;
                     font-size: 22px;
-                    background-color: #7a36f4;
+                    background-color: #0b5572;
                 }
             }
         }

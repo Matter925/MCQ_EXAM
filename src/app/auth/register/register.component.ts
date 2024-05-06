@@ -105,7 +105,7 @@ constructor(private fb:FormBuilder,private router:Router,private service:AuthSer
           timeOut:5000,
           closeButton:true
         });
-        this.router.navigate(['/subjects'])
+        this.router.navigate(['/login'])
        });
     }
  

@@ -1,23 +1,17 @@
 {
   "students": [
     {
-      "username": "testAdmin",
-      "email": "testAdmin@admin.com",
-      "password": "TestAdmin@admin.com246810",
+      "username": "Ahmed Mohamed",
+      "email": "Ahmed@gmail.com",
+      "password": "Ahmed@gmail.com",
       "subjects": [
         {
           "name": "الرياضيات",
-          "id": "4bde",
+          "id": "d09a",
           "degree": 1
         }
       ],
-      "id": "1"
-    },
-    {
-      "id": "2",
-      "username": "test2Admin",
-      "email": "test2Admin@admin.com",
-      "password": "TestAdmin@admin.com246810"
+      "id": "9cf1"
     }
   ],
   "doctors": [
@@ -30,18 +24,40 @@
   ],
   "subjects": [
     {
+      "id": "1fb1",
+      "name": "اللغة العربية",
+      "questions": [
+        {
+          "question": "ما هو معنى كلمة \"أدب\" في اللغة العربية؟",
+          "answer1": " الشعر",
+          "answer2": " السلوك والتصرف الحسن",
+          "answer3": "اللغة",
+          "answer4": " الأدب نفسه",
+          "correctAnswer": " السلوك والتصرف الحسن"
+        },
+        {
+          "question": "ما هي الصفة التي تصف الإنسان بأنه \"عدواني\"؟",
+          "answer1": " الخجول",
+          "answer2": "الودود",
+          "answer3": "العدواني",
+          "answer4": " السعيد",
+          "correctAnswer": "العدواني"
+        }
+      ]
+    },
+    {
       "name": "الرياضيات",
       "questions": [
         {
-          "question": "2*2",
-          "answer1": "4",
-          "answer2": "8",
-          "answer3": "40",
+          "question": "إذا كانت قيمة  𝑦 y تساوي 10 وقيمة  𝑥 x تساوي 5، فما قيمة التعبير  𝑦 𝑥 x y ​  ؟",
+          "answer1": "2",
+          "answer2": "5",
+          "answer3": "10",
           "answer4": "15",
-          "correctAnswer": "4"
+          "correctAnswer": "2"
         }
       ],
-      "id": "4bde"
+      "id": "d09a"
     }
   ],
   "login": [
