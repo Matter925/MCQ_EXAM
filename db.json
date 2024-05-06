@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "username": "testAdmin",
+      "email": "testAdmin@admin.com",
+      "password": "TestAdmin@admin.com246810",
+      "subjects": [
+        {
+          "name": "الرياضيات",
+          "id": "4bde",
+          "degree": 1
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "username": "test2Admin",
+      "email": "test2Admin@admin.com",
+      "password": "TestAdmin@admin.com246810"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "1",
+      "username": "Admin",
+      "email": "Admin@admin.com",
+      "password": "Admin@admin.com"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "الرياضيات",
+      "questions": [
+        {
+          "question": "2*2",
+          "answer1": "4",
+          "answer2": "8",
+          "answer3": "40",
+          "answer4": "15",
+          "correctAnswer": "4"
+        }
+      ],
+      "id": "4bde"
+    }
+  ],
+  "login": [
+    {
+      "username": "Admin",
+      "role": "doctors",
+      "userId": "1",
+      "id": "1"
+    }
+  ]
+}
