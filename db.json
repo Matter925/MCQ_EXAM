@@ -62,9 +62,6 @@
   ],
   "login": [
     {
-      "username": "Admin",
-      "role": "doctors",
-      "userId": "1",
       "id": "1"
     }
   ]

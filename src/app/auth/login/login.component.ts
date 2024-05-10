@@ -103,6 +103,10 @@ export class LoginComponent implements OnInit {
            timeOut:5000,
            closeButton:true
          });
+         const modelString = JSON.stringify(model);
+
+      // Store the stringified object in localStorage under the key 'User'
+        localStorage.setItem('User', modelString);
          this.router.navigate(['/subjects'])
         });
      }

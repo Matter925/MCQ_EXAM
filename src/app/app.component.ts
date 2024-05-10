@@ -2,15 +2,16 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule, RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './navbar/navbar.component';
-import { ToastrModule } from 'ngx-toastr';
+
 import { AuthService } from './auth/services/auth.service';
 import { HomeComponent } from './home/home.component';
+
 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule,RouterModule ,RouterOutlet,NavbarComponent,HomeComponent],
+  imports: [CommonModule,RouterModule ,RouterOutlet,NavbarComponent,HomeComponent ],
   
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
